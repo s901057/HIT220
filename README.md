@@ -1,3 +1,7 @@
+
+NOTE
+crocData.csv, CrocDataLatest.xlsx are hardcoded into C:/temp/ folder
+
 pyAssign3_SectionA_Part1_Next_site.py
 #SOLUTION WILL DETERMINE THE PATH FOR THE MAXIMUM # of SIGHTINGS!
 # sightingsCount=sightingsCount+ {array of sightings})
